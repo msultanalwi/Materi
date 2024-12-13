@@ -1,0 +1,21 @@
+pastikan ketika pake package selalu update. 
+contoh : masih update sejak 2 months ago.
+
+use "yang ingin dipake" in react native contoh :
+>   use icons in react native
+>   use sound player in react native
+>   use video plyaer in react native
+
+
+wajib npm install package ke project yang dibuat.
+
+
+biasakan setiap install package baru untuk menghindari cache.
+
+terminal : 
+RNbasic
+cd android
+./gradle clean
+
+
+bisa pakai lebih dari 1 icons asal import bukan "Icon" tapi source icon 
